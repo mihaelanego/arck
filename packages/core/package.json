@@ -1,0 +1,18 @@
+{
+  "name": "@arck/core",
+  "version": "1.0.0",
+  "description": "Arck's Core",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurentiu Ciobanu | vex",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "typedi": "^0.8.0"
+  }
+}
